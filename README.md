@@ -4,6 +4,10 @@ This project contains example code using many of the UI components supported by 
 Each directory contains a standalone Haxe project that you can build and run locally
 using the included build hxml files for a variety of targets.
 
+## A Note About Kha
+
+In order to run these examples with Kha simply use the following: `path/to/Kha/make --compile --run`.
+
 ## Additional Resources
 
 For more examples, see [the HaxeUI Component Explorer](http://haxeui.org/explorer/).

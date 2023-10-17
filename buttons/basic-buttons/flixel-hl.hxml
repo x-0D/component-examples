@@ -1,0 +1,3 @@
+-lib haxeui-core
+-lib haxeui-openfl
+--cmd lime test project.xml hl

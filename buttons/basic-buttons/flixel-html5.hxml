@@ -1,0 +1,3 @@
+-lib haxeui-core
+-lib haxeui-openfl
+--cmd lime build project.xml html5
