@@ -1,0 +1,3 @@
+-lib haxeui-core
+-lib haxeui-nme
+--cmd nme test windows
