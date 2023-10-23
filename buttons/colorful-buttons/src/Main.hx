@@ -25,6 +25,7 @@ class Main {
             }
 
             app.addComponent(hbox);
+            app.title = 'HaxeUI Demo';
 
             app.start();
         });
