@@ -1,3 +1,3 @@
 -lib haxeui-core
--lib haxeui-openfl
+-lib haxeui-flixel
 --cmd lime test project.xml hl
