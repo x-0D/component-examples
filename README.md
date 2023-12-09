@@ -6,7 +6,7 @@ using the included build hxml files for a variety of targets.
 
 ## A Note About Kha
 
-In order to run these examples with Kha simply use the following: `path/to/Kha/make --compile --run`.
+In order to run these examples with Kha simply use the following: `node path/to/Kha/make --compile --run`.
 
 ## Additional Resources
 
